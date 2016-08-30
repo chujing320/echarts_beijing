@@ -1,3 +1,2 @@
-tanchujing
-chujing
-jing
+git学习，特别推荐廖雪峰博客
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
